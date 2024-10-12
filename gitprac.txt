@@ -1,0 +1,7 @@
+1. To add : git add filename.txt
+2. To remove from staged area : git rm --cache testing.py
+3. To add to tracked area : git commit -m filename.txt
+4. To add all the file git add .
+5. To check the status - git status 
+6. To delete -> git rm filename
+7. To restore the file -> git restore.py
